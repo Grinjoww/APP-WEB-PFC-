@@ -1,0 +1,30 @@
+# Variables de entorno
+.env
+
+# Dependencias
+vendor/
+node_modules/
+
+# Logs
+*.log
+
+# Build outputs .NET
+bin/
+obj/
+out/
+
+# Publicación
+publish/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Archivos temporales
+*.tmp
+*.bak
