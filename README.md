@@ -1,50 +1,77 @@
-🐾 BIOPET - Sistema Integral de Gestión Veterinaria
-Descripción del Proyecto
+# 🐾 BIOPET
 
-BIOPET es una aplicación web desarrollada para optimizar la gestión operativa y clínica de centros veterinarios de pequeña y mediana escala en Ecuador.
+### Sistema Inteligente de Gestión Veterinaria
 
-La plataforma centraliza toda la información en la nube, eliminando la dependencia de registros físicos y sistemas locales, permitiendo el acceso seguro y en tiempo real a los datos desde cualquier ubicación. Además, integra tecnologías emergentes como dispositivos IoT e Inteligencia Artificial para mejorar la toma de decisiones y el monitoreo de pacientes.
+---
 
-Objetivo
+## 📖 Descripción
 
-Brindar una solución tecnológica moderna que facilite la administración de clínicas veterinarias, mejorando la organización de la información, la atención a los pacientes y la gestión financiera del negocio.
+BIOPET es una aplicación web desarrollada para modernizar la administración de clínicas veterinarias de pequeña y mediana escala en Ecuador.
 
-Funcionalidades Principales
-📋 Gestión de historias clínicas digitales.
-🐶 Registro y administración de mascotas.
-👤 Gestión de propietarios y clientes.
-💳 Módulo de facturación electrónica.
-📅 Administración de citas veterinarias.
-📊 Control administrativo y generación de reportes.
-☁️ Almacenamiento centralizado en la nube.
-🤖 Integración con Inteligencia Artificial e IoT.
+La plataforma centraliza la información en la nube, permitiendo el acceso seguro y en tiempo real a historias clínicas, registros de mascotas y procesos administrativos. Además, incorpora tecnologías como Inteligencia Artificial e integración con dispositivos IoT para mejorar la atención veterinaria.
 
-Roles del Sistema
-👨‍⚕️ Veterinario
-Gestión de consultas médicas.
-Registro de diagnósticos y tratamientos.
-Actualización de historias clínicas.
-👨‍💼 Administrador
-Gestión de usuarios y permisos.
-Administración general de la clínica.
-Control de facturación y reportes.
-👤 Dueño de Mascota
-Consulta de información médica de sus mascotas.
-Seguimiento de citas y tratamientos.
-Acceso a historiales clínicos autorizados.
+---
 
-Equipo de Desarrollo
-Integrante	Rol
-Jaime Josué Mariscal Cabrera	Desarrollador
-Fred Adrián Beltrán Montiel	Desarrollador
-Zaida Melissa Taipe Mora	Desarrolladora
+## 🎯 Objetivo
 
-Tecnologías Utilizadas
-ASP.NET Core
-PostgreSQL
-Azure Cloud Services
-HTML, CSS y JavaScript
-Integración IoT
-Inteligencia Artificial
+Optimizar la gestión clínica y administrativa mediante una solución digital que reduzca los procesos manuales, mejore la organización de la información y facilite la toma de decisiones.
 
-Proyecto Académico - Ingeniería de Software
+---
+
+## ✨ Funcionalidades
+
+* Gestión de historias clínicas digitales.
+* Registro y seguimiento de mascotas.
+* Administración de propietarios.
+* Gestión de citas veterinarias.
+* Facturación electrónica.
+* Reportes administrativos.
+* Integración con IA e IoT.
+* Acceso desde cualquier dispositivo mediante la nube.
+
+---
+
+## 👥 Roles del Sistema
+
+### 👨‍⚕️ Veterinario
+
+* Consultar y actualizar historias clínicas.
+* Registrar diagnósticos y tratamientos.
+* Gestionar consultas médicas.
+
+### 👨‍💼 Administrador
+
+* Administrar usuarios y permisos.
+* Gestionar información de la clínica.
+* Supervisar facturación y reportes.
+
+### 🐕 Dueño de Mascota
+
+* Consultar información de sus mascotas.
+* Revisar citas y tratamientos.
+* Acceder a historiales autorizados.
+
+---
+
+## 🛠️ Tecnologías
+
+* ASP.NET Core
+* PostgreSQL
+* Azure
+* HTML
+* CSS
+* JavaScript
+* Inteligencia Artificial
+* IoT
+
+---
+
+## 👨‍💻 Equipo de Desarrollo
+
+* **Jaime Josué Mariscal Cabrera**
+* **Fred Adrián Beltrán Montiel**
+* **Zaida Melissa Taipe Mora**
+
+---
+
+> Proyecto académico orientado a la transformación digital de la gestión veterinaria.
